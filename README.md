@@ -1,1 +1,3 @@
-# practice_task_2
+# Practice Task 2
+
+Am rezolvat cerintele 3 si 4.

@@ -1,4 +1,6 @@
-package ro.ase.cts;
+package ro.ase.cts.models.strategy;
+
+import ro.ase.cts.interfaces.RenderingStrategy;
 
 public class HighFidelityRendering implements RenderingStrategy {
 

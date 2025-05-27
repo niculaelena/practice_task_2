@@ -1,6 +1,6 @@
-package ro.ase.cts;
+package ro.ase.cts.models.chain;
 
-abstract class URLCheck {
+public abstract class URLCheck {
     protected URLCheck next;
 
     public URLCheck linkWith(URLCheck next) {

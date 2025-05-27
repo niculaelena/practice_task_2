@@ -1,4 +1,4 @@
-package ro.ase.cts;
+package ro.ase.cts.models.chain;
 
 public class SessionRecovery extends URLCheck {
     public void check(String url) {
